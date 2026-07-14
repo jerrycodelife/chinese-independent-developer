@@ -29,6 +29,9 @@
 #### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
 * :white_check_mark: [InvoiceFlowAI](https://github.com/EthanYoQ/Invoice-Downloader/releases/tag/v2026.07.12.1)：Windows 发票归档 App，连接 QQ / 163 邮箱批量下载 PDF、OFD、XML 电子发票，AI 识别后在本地分类并生成 Excel 报销汇总 - [GitHub 源码](https://github.com/EthanYoQ/Invoice-Downloader)
 
+#### 1146345502 - [Github](https://github.com/1146345502)
+* :white_check_mark: [Aural](https://aural-ai.com)：开源 AI 面试平台，支持语音、聊天和视频面试，提供自适应追问、结构化评分、面试练习与自托管 - [查看仓库](https://github.com/1146345502/aural-oss)
+
 #### Tristan Tang - [Github](https://github.com/tristan666666)
 * :white_check_mark: [Agent Island](https://agent-island.dev/)：Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号 - [查看仓库](https://github.com/tristan666666/agent-island)
 
