@@ -37,6 +37,9 @@
 * :white_check_mark: [MkSaaS](https://mksaas.com)：基于 Next.js 框架和各种前沿技术栈，一个周末就能快速上站的 AI SaaS 模板
 * :white_check_mark: [MkImage](https://mkimage.ai)：内置 1000+ 优质提示词，支持 GPT Image 和 NanoBanana 等模型的 AI 生图工具站
 
+#### EthanYoQ - [GitHub](https://github.com/EthanYoQ)
+* :white_check_mark: [Agent 小红书工作台](https://github.com/EthanYoQ/agent-xiaohongshu-workbench)：小红书图文内容工作台：可视化界面，用 Codex CLI 完成热点研究、选题推荐、内容拆解、热点仿写、去 AI 味、品牌配图与人工确认发布。能够保持所有内容图片一致性，可完全自动化流程也可人工修改。
+
 #### mnbqwe10(Singapore) - [Github](https://github.com/mnbqwe10)
 * :white_check_mark: [AI Buddy](https://chromewebstore.google.com/detail/eigpaeoigklelmfgnkljhbjjbpohenpn)：Chrome 侧边栏 AI 助手,选中文本或截图直接提问,自定义快捷键和提示词,支持 ChatGPT/Claude/Telegram 等 10 个平台,完全免费开源 - [查看仓库](https://github.com/mnbqwe10/ai_buddy)
 
@@ -5903,4 +5906,3 @@
 1. [电鸭](https://eleduck.com/)
 1. [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 1. [RemoteOK](https://remoteok.io/)
-
